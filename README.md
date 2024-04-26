@@ -1,6 +1,9 @@
 # ScriptGenius
 
-ScriptGenius is a project that leverages the power of the Large Language Model (LLM) technology, specifically LLam 2 by Meta, to generate blog content automatically. The project provides a user-friendly interface developed using Streamlit, allowing users to interactively generate blog posts based on various prompts and preferences.
+ScriptGenius is a project that leverages the power of the Large Language Model (LLM) technology, specifically LLam 2 by Meta, to generate blog content automatically. The project provides a user-friendly interface developed using Streamlit, allowing users to interactively generate blog posts based on various prompts and preferences. <br />
+To download the model Follow this link: https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main <br />
+And download the any ".bin" file <br />
+OR just use the Transformers Pipelines to ge the better results
 
 ## Features
 
